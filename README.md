@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Braian de Morais!</h1>
+<h1 align="center">Olá, eu sou o Braian de Morais!</h1>
 <h3 align="center">📊 Estudante de Análise de Dados | Apaixonado por Tecnologia e Inovação</h3>
 
 ---
